@@ -1,4 +1,5 @@
-This uses symlinks to gain read access to a website's files if the website does not check before extracting
+This uses symlinks to gain read access to a website's files if the website does not check before extracting.
+Based of the Whitehacks 2023 challenge Zippy
 
 ## How to use?
 
